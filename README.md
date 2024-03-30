@@ -1,4 +1,7 @@
-# LibraryManagementSystem
+# Library Management System
+
+<h2 align="centre">HOME PAGE</h2>
+
 ![image](https://github.com/TANMAY-AR0RA/LibraryManagementSystem/assets/107872653/ffb68922-cc1e-4b3b-b854-1b1c85471b10)
 
 ![image](https://github.com/TANMAY-AR0RA/LibraryManagementSystem/assets/107872653/ab707e9f-714a-4b52-87cb-483a161f20b9)
