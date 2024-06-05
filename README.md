@@ -1,6 +1,6 @@
 # Library Management System
 
-
+Some screenshots of the Application:
 # <h2 align="centre">1. HOME PAGE</h2>
 
 ![image](https://github.com/TANMAY-AR0RA/LibraryManagementSystem/assets/107872653/ffb68922-cc1e-4b3b-b854-1b1c85471b10)
